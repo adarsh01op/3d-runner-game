@@ -14,7 +14,7 @@ A 3D endless running game built with Unity and C#. The player runs forward autom
 - Main menu,and game over UI
 - hover board appear
 - flying feature
-- get shield during run and pass through obstacle
+- get shield during run and pass through obstacles
 
 
 ## 🛠️ Tech Stack
