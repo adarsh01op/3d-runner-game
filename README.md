@@ -26,15 +26,7 @@ A 3D endless running game built with Unity and C#. The player runs forward autom
 - **Space button :** Jump
 - **S :** Slide
 - **A / D :** Switch Lanes
-
-
-## 🚀 How to Run the Project
-1. Clone this repository:
-   `git clone https://github.com/[your-username]/[your-repo-name].git`
-2. Open Unity Hub.
-3. Click **Add** and select the cloned folder.
-4. Open the project and press **Play** in the Unity Editor.
-
+  
 ## 🧠 What I Learned
 - Implementing object pooling for obstacles to optimize performance.
 - Designing a scalable game loop and state management.
