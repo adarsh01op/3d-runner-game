@@ -40,11 +40,6 @@ A 3D endless running game built with Unity and C#. The player runs forward autom
 - Designing a scalable game loop and state management.
 - Managing version control for large Unity projects using Git LFS.
 
-## 🔮 Future Improvements
-- Add new environments and biomes.
-- Implement a shop system to unlock characters.
-- Add multiplayer leaderboards.
-
 ## 👨‍💻 Author
 **[Adarsh Bhaskar]**
 - LinkedIn: [https://www.linkedin.com/in/adarsh-bhaskar-6242a727a/]
