@@ -3,7 +3,8 @@
 A 3D endless running game built with Unity and C#. The player runs forward automatically, dodging obstacles and collecting points to achieve the highest score.
 
 ## 🎮 Gameplay
-<img width="2377" height="1610" alt="IMG_20250826_193042" src="https://github.com/user-attachments/assets/a68232e8-9a34-4831-9e48-d6f99f59fd6f" />
+<img width="762" height="490" alt="Screenshot 2026-09-18 142055" src="https://github.com/user-attachments/assets/ef76b6e7-400f-463b-81a4-1399dbc0e3f8" />
+
 
 
 ## ✨ Features
