@@ -42,6 +42,6 @@ A 3D endless running game built with Unity and C#. The player runs forward autom
 - Add multiplayer leaderboards.
 
 ## 👨‍💻 Author
-**[Your Name]**
+**[Adarsh Bhaskar]**
 - LinkedIn: [Link to your LinkedIn profile]
 - GitHub: [Link to your GitHub profile]
