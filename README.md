@@ -43,5 +43,5 @@ A 3D endless running game built with Unity and C#. The player runs forward autom
 
 ## 👨‍💻 Author
 **[Adarsh Bhaskar]**
-- LinkedIn: [Link to your LinkedIn profile]
+- LinkedIn: [https://www.linkedin.com/in/adarsh-bhaskar-6242a727a/]
 - GitHub: [https://github.com/adarsh01op]
