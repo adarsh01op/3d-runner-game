@@ -8,21 +8,23 @@ A 3D endless running game built with Unity and C#. The player runs forward autom
 ## ✨ Features
 - Endless procedural level generation
 - Score tracking and high score system
-- Smooth player controls (jump, slide, lane switching)
-- Increasing difficulty over time
-- Main menu, pause menu, and game over UI
-- [Add any other features you built, like power-ups, sound effects, etc.]
+- player controls (jump, slide, lane switching)
+- Main menu,and game over UI
+- hover board appear
+- flying feature
+- get shield during run and pass through obstacle
+
 
 ## 🛠️ Tech Stack
-- **Engine:** Unity [Your Unity Version, e.g., 2022.3 LTS]
+- **Engine:** Unity [6000.5.9f1]
 - **Language:** C#
 - **Version Control:** Git & Git LFS
 
 ## 🕹️ Controls
-- **W / Up Arrow:** Jump
-- **S / Down Arrow:** Slide
-- **A / D or Left / Right Arrow:** Switch Lanes
-- **[Add any mobile touch controls if you have them]**
+- **Space button :** Jump
+- **S :** Slide
+- **A / D :** Switch Lanes
+
 
 ## 🚀 How to Run the Project
 1. Clone this repository:
